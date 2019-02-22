@@ -13,7 +13,7 @@ class Login extends Component {
           密码：<input type="password"/>
         </p>
         <p>
-          <button><Link to="/home/tab">登录</Link></button>
+          <button><Link to="/">登录</Link></button>
         </p>
       </div>
     );

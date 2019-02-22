@@ -16,11 +16,11 @@ class HomeRoute extends Component {
             <div>
                 <div>
                     <Switch>
-                        <Route exact path="/home/welcome" component={Welcome}/>
-                        <Route exact path="/home/tab" component={Tab}/>
-                        <Route exact path="/home/gold" component={Gold}/>
-                        <Route exact path="/home/lists" component={Lists}/>
-                        <Route exact path="/home/Reduxs" component={Reduxs}/>
+                        <Route exact path="/welcome" component={Welcome}/>
+                        <Route exact path="/" component={Tab}/>
+                        <Route exact path="/gold" component={Gold}/>
+                        <Route exact path="/lists" component={Lists}/>
+                        <Route exact path="/Reduxs" component={Reduxs}/>
                     </Switch>
                 </div>
             </div>

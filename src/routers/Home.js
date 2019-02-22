@@ -32,20 +32,17 @@ class Home extends Component {
                                 style={{background:"#232323",border:"none"}}
                                 selectedKeys={[]}
                                 >
-                                {/*<Menu.Item key="welcome">
-                                    <Link to="/home/welcome"/><Icon type="pie-chart"/><span>welcome</span>
-                                </Menu.Item>*/}
                                 <Menu.Item key="tab">
-                                    <Link to="/home/tab"><Icon type="desktop"/><span>Tab</span></Link>
+                                    <Link to="/"><Icon type="desktop"/><span>Tab</span></Link>
                                 </Menu.Item>
                                 <Menu.Item key="gold">
-                                    <Link to="/home/gold"><Icon type="inbox"/><span>Gold</span></Link>
+                                    <Link to="/gold"><Icon type="inbox"/><span>Gold</span></Link>
                                 </Menu.Item>
                                 <Menu.Item key="Lists">
-                                    <Link to="/home/Lists"><Icon type="inbox"/><span>Lists</span></Link>
+                                    <Link to="/Lists"><Icon type="inbox"/><span>Lists</span></Link>
                                 </Menu.Item>
                                 <Menu.Item key="Reduxs">
-                                    <Link to="/home/Reduxs"><Icon type="inbox"/><span>Reduxs</span></Link>
+                                    <Link to="/Reduxs"><Icon type="inbox"/><span>Reduxs</span></Link>
                                 </Menu.Item>
                             </Menu>
                         </Sider>
