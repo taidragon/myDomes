@@ -10,7 +10,8 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <BrowserRouter basename='/myDomes/build/'>
+                <BrowserRouter basename='/'>
+                {/*<BrowserRouter basename='/myDomes/build/'>*/}
                     <Switch>
                         <Route path="/login" component={Login}/>
                         <Route path="/" component={HomeRoute}/>

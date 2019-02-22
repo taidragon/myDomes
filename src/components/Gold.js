@@ -15,7 +15,7 @@ class Gold extends Component {
         }
     }
     componentDidMount(){
-        let url = "../json/gold.json";
+        let url = "./json/gold.json";
         /*let url="http://web.juhe.cn:8080/finance/gold/shgold?key=7e866d121c25976d086549b11295e53f";*/
         fetch(url,{method:"GET",mode: 'cors'})
             .then(function(response) {
