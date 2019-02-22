@@ -1,0 +1,185 @@
+{
+  "resultcode":"200",
+  "reason":"SUCCESSED!",
+  "result":[
+    {
+      "1":{
+        "variety":"Au100g",
+        "latestpri":"282.50",
+        "openpri":"282.00",
+        "maxpri":"283.95",
+        "minpri":"281.10",
+        "limit":"0.10%",
+        "yespri":"282.22",
+        "totalvol":"96.00",
+        "time":"2019-01-23 13:52:28"
+      },
+      "2":{
+        "variety":"Au(T+N1)",
+        "latestpri":"283.55",
+        "openpri":"283.50",
+        "maxpri":"284.40",
+        "minpri":"282.50",
+        "limit":"0.05%",
+        "yespri":"283.40",
+        "totalvol":"37238.00",
+        "time":"2019-01-23 14:04:24"
+      },
+      "3":{
+        "variety":"Au(T+D)",
+        "latestpri":"282.23",
+        "openpri":"282.52",
+        "maxpri":"283.00",
+        "minpri":"281.98",
+        "limit":"-0.01%",
+        "yespri":"282.26",
+        "totalvol":"30292.00",
+        "time":"2019-01-23 14:04:28"
+      },
+      "4":{
+        "variety":"Au99.99",
+        "latestpri":"282.39",
+        "openpri":"284.00",
+        "maxpri":"284.00",
+        "minpri":"282.13",
+        "limit":"-0.15%",
+        "yespri":"282.82",
+        "totalvol":"85456.00",
+        "time":"2019-01-23 14:04:06"
+      },
+      "5":{
+        "variety":"Au99.95",
+        "latestpri":"282.20",
+        "openpri":"282.85",
+        "maxpri":"282.85",
+        "minpri":"282.20",
+        "limit":"0.00%",
+        "yespri":"282.20",
+        "totalvol":"572.00",
+        "time":"2019-01-23 14:04:12"
+      },
+      "6":{
+        "variety":"Au50g",
+        "latestpri":"--",
+        "openpri":"--",
+        "maxpri":"--",
+        "minpri":"--",
+        "limit":"--",
+        "yespri":"255.00",
+        "totalvol":"--",
+        "time":"2019-01-22 20:00:00"
+      },
+      "7":{
+        "variety":"Ag99.99",
+        "latestpri":"--",
+        "openpri":"--",
+        "maxpri":"--",
+        "minpri":"--",
+        "limit":"--",
+        "yespri":"3666.00",
+        "totalvol":"--",
+        "time":"2019-01-23 13:33:16"
+      },
+      "8":{
+        "variety":"Ag(T+D)",
+        "latestpri":"3642.00",
+        "openpri":"3645.00",
+        "maxpri":"3645.00",
+        "minpri":"3634.00",
+        "limit":"0.05%",
+        "yespri":"3640.00",
+        "totalvol":"2582822.00",
+        "time":"2019-01-23 14:04:30"
+      },
+      "9":{
+        "variety":"Au(T+N2)",
+        "latestpri":"287.05",
+        "openpri":"286.40",
+        "maxpri":"287.80",
+        "minpri":"286.40",
+        "limit":"0.09%",
+        "yespri":"286.80",
+        "totalvol":"28.00",
+        "time":"2019-01-23 14:04:28"
+      },
+      "10":{
+        "variety":"Pt99.95",
+        "latestpri":"186.23",
+        "openpri":"186.23",
+        "maxpri":"186.23",
+        "minpri":"186.23",
+        "limit":"-0.33%",
+        "yespri":"186.84",
+        "totalvol":"60.00",
+        "time":"2019-01-23 13:49:35"
+      },
+      "11":{
+        "variety":"AU995",
+        "latestpri":"--",
+        "openpri":"--",
+        "maxpri":"--",
+        "minpri":"--",
+        "limit":"--",
+        "yespri":"271.60",
+        "totalvol":"--",
+        "time":"2019-01-22 20:00:00"
+      },
+      "12":{
+        "variety":"AU99.99",
+        "latestpri":"282.39",
+        "openpri":"284.00",
+        "maxpri":"284.00",
+        "minpri":"282.13",
+        "limit":"-0.15%",
+        "yespri":"282.82",
+        "totalvol":"854560.00",
+        "time":"2019-01-23 14:04:06"
+      },
+      "13":{
+        "variety":"MAUTD",
+        "latestpri":"282.39",
+        "openpri":"282.50",
+        "maxpri":"283.08",
+        "minpri":"282.20",
+        "limit":"0.02%",
+        "yespri":"282.34",
+        "totalvol":"33896.00",
+        "time":"2019-01-23 14:04:30"
+      },
+      "14":{
+        "variety":"IAU99.99",
+        "latestpri":"280.45",
+        "openpri":"281.30",
+        "maxpri":"281.30",
+        "minpri":"280.45",
+        "limit":"-0.01%",
+        "yespri":"280.47",
+        "totalvol":"52004.00",
+        "time":"2019-01-23 14:04:22"
+      },
+      "15":{
+        "variety":"IAU100G",
+        "latestpri":"--",
+        "openpri":"--",
+        "maxpri":"--",
+        "minpri":"--",
+        "limit":"--",
+        "yespri":"270.00",
+        "totalvol":"--",
+        "time":"2019-01-22 20:00:00"
+      },
+      "16":{
+        "variety":"IAU99.5",
+        "latestpri":"--",
+        "openpri":"--",
+        "maxpri":"--",
+        "minpri":"--",
+        "limit":"--",
+        "yespri":"237.80",
+        "totalvol":"--",
+        "time":"2019-01-22 20:00:00"
+      }
+    }
+  ],
+  "error_code":0
+}
